@@ -1,0 +1,85 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <link rel="stylesheet" href="style/ContactUsStyle.css">
+    <link rel="icon" type="image/x-icon" href="logos/Logo.jpg">
+</head>
+<body>
+
+    <nav>
+        <ul id="ul_nav">
+            <li><a href="../Views/Home.html">About Us</a></li>
+            <li><a href="../Views/Events.html">Events</a></li>
+            <li><a href="../Views/Games.html">Games</a></li>
+            <li><a href="../Views/SignUp.html">Join</a></li>
+            <li><a href="../Views/Socials.html">Social</a></li>
+            <li><a href="../Views/ContactUs.html" class="active">Contact Us</a></li>
+        </ul>
+    </nav>
+
+ 
+    <header>
+        <h1>Contact Us</h1>
+        <p>We’d love to hear from you! Reach out with any questions or feedback.</p>
+    </header>
+
+
+    <section id="contact-info">
+        <h2>Get in Touch</h2>
+        <p><strong>Address:</strong> MTU Bishopstown Campus, Cork, Ireland</p>
+        <p><strong>Phone:</strong> +353 87 757 0746</p>
+        <p><strong>Email:</strong> <a href="mailto:dimitar.bodurov@mycit.ie">dimitar.bodurov@mycit.ie</a></p>
+    </section>
+
+    <section id="map">
+        <h2>Find Us</h2>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.690424131742!2d-8.577186584176582!3d51.88422577970344!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48448df4ff11c0b3%3A0x8b1b16a3d9c7f5aa!2sMunster%20Technological%20University!5e0!3m2!1sen!2sie!4v1697902386171!5m2!1sen!2sie"
+                width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy">
+        </iframe>
+    </section>
+
+    <section id="contact-form">
+        <h2>Contact Form</h2>
+        <form action="https://webdevcit.com/displayvalues.php" method="post">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="5" required></textarea>
+
+            <div class="form-buttons">
+                <button type="submit" class="submit-button">Submit</button>
+                <button type="reset" class="cancel-button">Cancel</button>
+            </div>
+        </form>
+    </section>
+
+
+    <section id="social-links">
+        <h2>Follow Us</h2>
+        <div class="social-icons">
+            <a href="https://facebook.com/mtu-retro-gaming-club">
+                <img src="logos/Facebook.jpg" alt="Facebook">
+            </a>
+            <a href="https://instagram.com/mtu-retro-gaming-club">
+                <img src="logos/Instagram.jpg" alt="Instagram">
+            </a>
+            <a href="https://discord.com/invite/mtu-retro-gaming-club">
+                <img src="logos/Discord.jpg" alt="Discord">
+            </a>
+        </div>
+    </section>
+
+ 
+    <footer>
+        <p>&copy; 2024 MTU Retro Games Club. All rights reserved.</p>
+        <p><a href="PrivacyTerms.html">Privacy Policy</a> | <a href="TermsCond.html">Terms & Conditions</a></p>
+    </footer>
+</body>
+</html>

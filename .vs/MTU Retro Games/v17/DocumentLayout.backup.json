@@ -1,0 +1,278 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\welcomepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\welcomepage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|c:\\users\\user\\source\\repos\\mtu retro games\\mtu retro games\\views\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\signup.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\welcomestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\welcomestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\termstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\termstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\socialstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\socialstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\privacystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\privacystyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\homestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\homestyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\gameseventsstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\gameseventsstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\style\\contactusstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\style\\contactusstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\contactus.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\contactus.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\socials.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\socials.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\privacyterms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\privacyterms.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\events.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\games.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\games.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|C:\\Users\\User\\source\\repos\\MTU Retro Games\\mtu retro games\\views\\termscond.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99F9F181-E0A5-4BF5-A570-4F786BF32432}|MTU Retro Games\\MTURetroWebsite.vbproj|solutionrelative:mtu retro games\\views\\termscond.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TermStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\TermStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\TermStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\TermStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\TermStyle.css",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T23:57:03.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrivacyStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\PrivacyStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\PrivacyStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\PrivacyStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\PrivacyStyle.css",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwFkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T23:56:44.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomePage.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\WelcomePage.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\WelcomePage.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\WelcomePage.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\WelcomePage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T23:33:35.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PrivacyTerms.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\PrivacyTerms.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\PrivacyTerms.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\PrivacyTerms.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\PrivacyTerms.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:39:20.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TermsCond.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\TermsCond.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\TermsCond.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\TermsCond.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\TermsCond.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:39:15.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Socials.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Socials.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\Socials.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Socials.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\Socials.html",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:39:05.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Home.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Home.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\Home.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Home.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\Home.html",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAewEwAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:38:13.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Games.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Games.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\Games.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Games.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\Games.html",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:38:07.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GamesEventsStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\GamesEventsStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\GamesEventsStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\GamesEventsStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\GamesEventsStyle.css",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAqwL0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T22:36:25.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Events.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Events.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\Events.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\Events.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\Events.html",
+              "ViewState": "AgIAABMAAAAAAAAAAAAawCEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:35:42.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\SignUp.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\SignUp.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\SignUp.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\SignUp.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:43:25.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\WelcomeStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\WelcomeStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\WelcomeStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\WelcomeStyle.css",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAswGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T23:57:58.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactUsStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\ContactUsStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\ContactUsStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\ContactUsStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\ContactUsStyle.css",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAqwK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T22:57:15.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SocialStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\SocialStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\SocialStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\SocialStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\SocialStyle.css",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAqwJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T22:46:21.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeStyle.css",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\HomeStyle.css",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\style\\HomeStyle.css",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\style\\HomeStyle.css",
+              "RelativeToolTip": "MTU Retro Games\\Views\\style\\HomeStyle.css",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAqwOMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-29T23:17:04.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContactUs.html",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\ContactUs.html",
+              "RelativeDocumentMoniker": "MTU Retro Games\\Views\\ContactUs.html",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MTU Retro Games\\MTU Retro Games\\Views\\ContactUs.html",
+              "RelativeToolTip": "MTU Retro Games\\Views\\ContactUs.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-29T22:56:13.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

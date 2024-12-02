@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Join the Club</title>
+    <link rel="stylesheet" href="style/SignUpStyle.css">
+    <link rel="icon" type="image/x-icon" href="logos/Logo.jpg">
+</head>
+<body>
+    <nav>
+        <ul id="ul_nav">
+            <li><a href="../Views/Home.html">About Us</a></li>
+            <li><a href="../Views/Events.html">Events</a></li>
+            <li><a href="../Views/Games.html">Games</a></li>
+            <li><a href="../Views/SignUp.html" class="active">Join</a></li>
+            <li><a href="../Views/Socials.html">Social</a></li>
+            <li><a href="../Views/ContactUs.html">Contact Us</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <h1>Join MTU Retro Games Club</h1>
+        <p>Sign up today and become part of our retro gaming community!</p>
+    </header>
+
+    <main>
+        <form action="https://webdevcit.com/displayvalues.php" method="POST" enctype="multipart/form-data" class="signup-form">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="date-started">Date Started in MTU:</label>
+                <input type="date" id="date-started" name="date-started" required>
+            </div>
+
+            <div class="form-group">
+                <label for="campus">MTU Campus:</label>
+                <select id="campus" name="campus" required>
+                    <option value="Cork Bishopstown">Cork Bishopstown</option>
+                    <option value="Cork Crawford College">Cork Crawford College</option>
+                    <option value="Cork School of Music">Cork School of Music</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="department">Department of Study:</label>
+                <input type="text" id="department" name="department">
+            </div>
+
+            <div class="form-group">
+                <label for="favourite-game">Favourite Retro Game:</label>
+                <input type="text" id="favourite-game" name="favourite-game">
+            </div>
+
+            <fieldset class="form-group">
+                <legend>Game Interests:</legend>
+                <label><input type="checkbox" name="game-interests[]" value="Platformers"> Platformers</label>
+                <label><input type="checkbox" name="game-interests[]" value="RPGs"> RPGs</label>
+                <label><input type="checkbox" name="game-interests[]" value="Fighting Games"> Fighting Games</label>
+                <label><input type="checkbox" name="game-interests[]" value="Arcade Classics"> Arcade Classics</label>
+            </fieldset>
+
+            <fieldset class="form-group">
+                <legend>Previously Attended Club Events:</legend>
+                <label><input type="radio" name="attended" value="yes" required> Yes</label>
+                <label><input type="radio" name="attended" value="no"> No</label>
+            </fieldset>
+
+            <div class="form-group">
+                <label for="events-interest">Events of Interest:</label>
+                <select id="events-interest" name="events-interest[]" multiple size="4">
+                    <option value="Retro Game Tournament">Retro Game Tournament</option>
+                    <option value="Classic Game Night">Classic Game Night</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="reason">Why Do You Want to Join?</label>
+                <textarea id="reason" name="reason" rows="4" required></textarea>
+            </div>
+
+            <fieldset class="form-group">
+                <legend>Membership Card Preference:</legend>
+                <label><input type="radio" name="card-preference" value="virtual" checked> Virtual</label>
+                <label><input type="radio" name="card-preference" value="printed"> Printed</label>
+            </fieldset>
+
+            <div class="form-group">
+                <label for="photo">Upload Photo for Membership Card:</label>
+                <input type="file" id="photo" name="photo" accept="image/*" required>
+            </div>
+
+            <div class="form-actions">
+                <button type="submit">Submit</button>
+                <button type="reset">Cancel</button>
+            </div>
+        </form>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 MTU Retro Games Club. All rights reserved.</p>
+        <p><a href="PrivacyTerms.html">Privacy Policy</a> | <a href="TermsCond.html">Terms & Conditions</a></p>
+    </footer>
+</body>
+</html>
